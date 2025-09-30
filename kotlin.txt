@@ -1,0 +1,5 @@
+Nombre del usuario: IngenieroYlder
+Correo electrónico: ingenieroylder@ejemplo.com
+
+Este archivo fue creado como parte del RAP 15 - Evidencia de herramientas de versionamiento (GIT).
+Fecha de creación: 29/09/2025
